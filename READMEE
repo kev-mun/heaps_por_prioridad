@@ -5,18 +5,18 @@ Kevin Muñoz — kevin.munoz04@unicatolica.edu
 Humberto Fajardo — humberto.fajardo01@correo.edu
 
 USUARIOS DE GIT HUB
-kev-mun (kevin muñoz)
-apuestacerou (hmberto fajardo)
+kev-mun (Kevin muñoz)
+apuestacerou (Humberto fajardo)
 
 Descripción
 
-se implementa la  estructura de datos basada en MinHeap para manejar una cola de tareas con prioridad, donde `1` es la prioridad más alta. Las funcionalidades incluyen:
+se implementa la  estructura de datos basada en MinHeap para manejar una cola de tareas con prioridad, desde `1` hasta ´5´ . Las funcionalidades incluyen:
 
 - Insertar tareas (nombre y prioridad)
 - Extraer tarea más prioritaria
 - Imprimir el estado actual del heap
 
-Se siguió el pseudocódigo de MinHeap que dio el profesor en la clase, y lo usamos  en javajs.
+Se siguió el pseudocódigo de MinHeap que dio el profesor en la clase, y lo usamos  en javascript.
 
 
 
