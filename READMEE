@@ -1,0 +1,26 @@
+# MinHeap Tareas con Prioridad
+
+Integrantes:
+Kevin Muñoz — kevin.munoz04@unicatolica.edu.co
+Humberto Fajardo — humberto.fajardo@correo.edu
+
+
+
+## 📌 Descripción
+
+Este proyecto implementa una estructura de datos basada en **MinHeap** para manejar una cola de tareas con prioridad, donde `1` es la prioridad más alta. Las funcionalidades incluyen:
+
+- Insertar tareas (nombre y prioridad)
+- Extraer tarea más prioritaria
+- Imprimir el estado actual del heap
+
+Se siguió el pseudocódigo de MinHeap entregado en clase y se implementó en Python.
+
+---
+
+## ▶️ Instrucciones de ejecución
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/<usuario>/minheap-tareas.git
+cd minheap-tareas.
