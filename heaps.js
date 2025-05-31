@@ -123,3 +123,5 @@ while (heap.size > 0) {
   const tarea = heap.extractMin();
   console.log(`${tarea.name} (prioridad: ${tarea.priority})`);
 }
+
+
