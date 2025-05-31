@@ -8,19 +8,19 @@ USUARIOS DE GIT HUB
 kev-mun (kevin muñoz)
 apuestacerou (hmberto fajardo)
 
-## 📌 Descripción
+Descripción
 
-Este proyecto implementa una estructura de datos basada en **MinHeap** para manejar una cola de tareas con prioridad, donde `1` es la prioridad más alta. Las funcionalidades incluyen:
+se implementa la  estructura de datos basada en MinHeap para manejar una cola de tareas con prioridad, donde `1` es la prioridad más alta. Las funcionalidades incluyen:
 
 - Insertar tareas (nombre y prioridad)
 - Extraer tarea más prioritaria
 - Imprimir el estado actual del heap
 
-Se siguió el pseudocódigo de MinHeap entregado en clase y se implementó en Python.
+Se siguió el pseudocódigo de MinHeap que dio el profesor en la clase, y lo usamos  en javajs.
 
----
 
-## ▶️ Instrucciones de ejecución
+
+Instrucciones de ejecución
 
 1. Clona el repositorio:
 ```bash
